@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536047543790.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EF120CF0",
+    "lastKnownWriteTime" : 1536071567,
+    "last_content_update" : 1536071567674,
+    "path" : "C:/Users/ramothibetml/Desktop/Data carpentry/code-handout.R",
+    "project_path" : "code-handout.R",
+    "properties" : {
+        "cursorPosition" : "34,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
